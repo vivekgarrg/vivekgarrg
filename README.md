@@ -1,5 +1,5 @@
 # Hi there, I'm Vivek  👋 
-Full Stack Developer Enthusiast | Java Developer ❤️ | Master of Computer Application
+Full Stack Developer (MERN) | DSA in Java ❤️ | Master of Computer Application
 
 
 
