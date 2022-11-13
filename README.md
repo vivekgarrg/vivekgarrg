@@ -1,5 +1,5 @@
 # Hi there, I'm Vivek  👋 
-Full Stack Developer (MERN) | DSA in Java ❤️ | Master of Computer Application
+SDE-I at Tailnode |Full Stack Developer (MERN) | DSA in Java ❤️ | Master of Computer Application
 
 
 
