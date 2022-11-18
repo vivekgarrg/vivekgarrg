@@ -1,30 +1,14 @@
-# Hi there, I'm Vivek  👋 
-SDE-I at Tailnode |Full Stack Developer (MERN) | DSA in Java ❤️ | Master of Computer Application
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Spring Boot & Spring MVC.
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Java or React/Express/NodeJs
+- 📫 &nbsp;How to reach me: [@vivekgarrg](https://www.linkedin.com/in/vivekgarrg/)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s
 
 
 
+📊 &nbsp;**This week I spent my time on**
 
-
-### Connect with me:
-
-[<img  align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-](https://www.linkedin.com/in/vivek-garg-21a6931bb/)
-&nbsp;
-[<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-](https://github.com/vivekgarrg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgarrg&layout=compact)](https://github.com/vivekgarrg/github-readme-stats)
-
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=vivekgarrg&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=vivekgarrg&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=vivekgarrg&show_icons=true" />
-</picture>
-
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vivekgarrg&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
