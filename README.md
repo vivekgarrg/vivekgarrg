@@ -25,3 +25,4 @@ SDE-I at Tailnode |Full Stack Developer (MERN) | DSA in Java ❤️ | Master of 
 <img src="https://github-readme-stats.vercel.app/api?username=vivekgarrg&show_icons=true" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
