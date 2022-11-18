@@ -13,6 +13,9 @@ SDE-I at Tailnode |Full Stack Developer (MERN) | DSA in Java ❤️ | Master of 
 [<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 ](https://github.com/vivekgarrg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgarrg&layout=compact)](https://github.com/vivekgarrg/github-readme-stats)
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=vivekgarrg&show_icons=true&theme=radical"
@@ -25,4 +28,3 @@ SDE-I at Tailnode |Full Stack Developer (MERN) | DSA in Java ❤️ | Master of 
 <img src="https://github-readme-stats.vercel.app/api?username=vivekgarrg&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgarrg&layout=compact)](https://github.com/vivekgarrg/github-readme-stats)
