@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 ## I'm Vivek Garg 
-( SDE-I at Tailnode| MERN Stack Developer | TypeScript | Java )
+( Software Developer Engineer - I at TailNode | FUll Stack Developer | React | NodeJS | Spring Boot | Express | TypeScript | Java )
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
