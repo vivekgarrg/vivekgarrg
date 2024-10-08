@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 ## I'm Vivek Garg 
-( SDE - I at TailNode | Full Stack Developer | React | NodeJS | Spring Boot | Express | TypeScript | Java )
+( SDE - II at PersonifyHealth | Full Stack Developer | React | NodeJS | Spring Boot | Express | TypeScript | Java | Ruby )
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
